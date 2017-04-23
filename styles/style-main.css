@@ -25,10 +25,13 @@ body {
   text-align: left;
   padding-left: 20px;
   width: 30vw;
+
+  
 }
 
 .row {
   text-align: center;
+  height: 30vh;
 }
 
 a {
