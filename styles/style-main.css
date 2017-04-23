@@ -12,6 +12,7 @@ body {
   font-family: Sans-Serif;
   position: relative;
   color: white;
+  text-shadow: black 0.1em 0.1em 0.2em;
   
   height: 100vh;
   min-height: fit-content;
@@ -21,6 +22,7 @@ body {
 .column {
   display: inline-block;
   vertical-align: top;
+  text-align: left;
   padding-left: 20px;
   width: 30vw;
 }
@@ -30,5 +32,5 @@ body {
 }
 
 a {
-    color: hotpink;
+  color: hotpink;
 }
