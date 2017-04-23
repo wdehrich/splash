@@ -20,10 +20,15 @@ body {
 
 .column {
   display: inline-block;
+  vertical-align: top;
   padding-left: 20px;
   width: 30vw;
 }
 
 .row {
   text-align: center;
+}
+
+a {
+    color: hotpink;
 }
