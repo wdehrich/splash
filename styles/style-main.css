@@ -18,3 +18,11 @@ body {
   background: url('../images/bg-2.jpg') center / cover;
 }
 
+.column {
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.row {
+  text-align: center;
+}
