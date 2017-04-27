@@ -13,10 +13,10 @@ body {
   position: relative;
   color: white;
   text-shadow: black 0.1em 0.1em 0.2em;
-  
   height: 100vh;
   min-height: fit-content;
   background: url('../images/bg-2.jpg') center / cover;
+  background-attachment: fixed;
 }
 
 .column {
@@ -30,6 +30,7 @@ body {
 .row {
   text-align: center;
   height: 30vh;
+  background: rgba(0, 0, 0, 0.6)
 }
 
 a {
