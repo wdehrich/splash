@@ -17,7 +17,6 @@ body {
   text-shadow: black 0.1em 0.1em 0.2em;
   height: 100vh;
   min-height: fit-content;
-  background-color: black;
   background: url('../images/bg-2.jpg') center / cover;
   background-attachment: fixed;
 }
